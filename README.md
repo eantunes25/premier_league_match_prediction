@@ -25,12 +25,6 @@ The workflow involves:
 * Evaluation Metric: Accuracy score on test set
 * Target Variable: `FTR` (Full-Time Result - 'H', 'D', 'A')
 
-## File Structure
-
-```
-PL Match Prediction.ipynb     # Jupyter notebook with all steps
-```
-
 ## How to Run
 
 1. Clone the repository or download the `.ipynb` file.
